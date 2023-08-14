@@ -1,7 +1,11 @@
 ## Requirements
+
 • A render() function that loops through the array and displays each book on the page
+
 • A form that allows user to add new books
+
 • A delete button.
+
 • A button to handle the read status of the book
 
 **Object Constructors**
